@@ -34,8 +34,9 @@ namespace Decisions
             Console.ReadLine();
             */
             /* add comment */
-            Console.WriteLine("This is my first C-sharp Project. ...more ");
-             Console.WriteLine("Bob's Big Giveaway");
+            Console.WriteLine("1: This is my first C-sharp Project. ...more ");
+            Console.WriteLine("2: This is my first C-sharp Project. ...more ");
+            Console.WriteLine("Bob's Big Giveaway");
             Console.Write("Choose a door: 1, 2 or 3: ");
             string userValue = Console.ReadLine();
 
